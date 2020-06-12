@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\bin\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.exe
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\bin\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.deps.json
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\bin\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\bin\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\bin\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.dll
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\bin\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.pdb
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\obj\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\obj\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\obj\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\obj\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\obj\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.dll
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\obj\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.pdb
+C:\Users\vinicius\Documents\AULA16METODOCONSTRUTOR\obj\Debug\netcoreapp3.1\AULA16METODOCONSTRUTOR.genruntimeconfig.cache
